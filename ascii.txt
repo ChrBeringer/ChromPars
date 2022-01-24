@@ -1,0 +1,66 @@
+ID#	1
+Name	Sulfamethoxazol
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	0247	133.685	529.165	Standard(Calc.Point)	1	3649	02		000	49997	000	-----	20	1		17.11.2021 23:22:16	254,1500>155,9000	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0408	247.862	831.906	Standard(Calc.Point)	2	3645	04	*	001	43944	000	-----	21	1		17.11.2021 23:29:21	254,1500>155,9000	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	0592	355.067	1.177.699	Standard(Calc.Point)	3	3647	06	*	001	55911	000	-----	22	1		17.11.2021 23:36:25	254,1500>155,9000	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0792	467.887	1.553.986	Standard(Calc.Point)	4	3640	08	*	001	54158	000	-----	23	1		17.11.2021 23:43:29	254,1500>155,9000	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	1008	596.749	1.959.629	Standard(Calc.Point)	5	3652	1	*	001	72397	000	-----	24	1		17.11.2021 23:50:34	254,1500>155,9000	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	0426	260.659	864.938	Unknown	0	3652	-----	-----	001	51128	000	-----	2	3		18.11.2021 00:04:44	254,1500>155,9000	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	0455	250.678	920.698	Unknown	0	3650	-----	-----	001	72531	000	-----	5	3		18.11.2021 00:25:56	254,1500>155,9000	1
+
+ID#	2
+Name	Naproxen-Na
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	0252	420	1.172	Standard(Calc.Point)	1	4503	02	*	014	1764	005	-----	20	1		17.11.2021 23:22:16	228,9000>169,2000	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0269	408	1.273	Standard(Calc.Point)	2	4500	04	*	014	1924	005	-----	21	1		17.11.2021 23:29:21	228,9000>169,2000	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	0737	1.378	4.089	Standard(Calc.Point)	3	4507	06	*	016	4617	005	-----	22	1		17.11.2021 23:36:25	228,9000>169,2000	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0713	1.222	3.939	Standard(Calc.Point)	4	4502	08	*	017	4086	006	-----	23	1		17.11.2021 23:43:29	228,9000>169,2000	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	1030	1.847	5.844	Standard(Calc.Point)	5	4509	1	*	019	5502	006	-----	24	1		17.11.2021 23:50:34	228,9000>169,2000	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	0131	158	446	Unknown	0	4507	-----	-----	018	740	006	-----	2	3		18.11.2021 00:04:44	228,9000>169,2000	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	-----	-----	-----	Unknown	0	-----	-----	-----	-----	-----	-----	-----	5	3		18.11.2021 00:25:56	228,9000>169,2000	1
+
+ID#	3
+Name	Clofibrinsäure
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	-0032	161	178	Standard(Calc.Point)	1	4687	02		-028	117	-009	-----	20	1		17.11.2021 23:22:16	213,1500>127,1000	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0411	121.624	379.274	Standard(Calc.Point)	2	4486	04	*	001	61859	000	-----	21	1		17.11.2021 23:29:21	213,1500>127,1000	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	0582	171.886	525.107	Standard(Calc.Point)	3	4488	06	*	001	76972	000	-----	22	1		17.11.2021 23:36:25	213,1500>127,1000	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0802	227.884	712.696	Standard(Calc.Point)	4	4485	08	*	001	84180	000	-----	23	1		17.11.2021 23:43:29	213,1500>127,1000	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	1005	289.040	886.188	Standard(Calc.Point)	5	4492	1	*	001	98344	000	-----	24	1		17.11.2021 23:50:34	213,1500>127,1000	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	0117	37.569	127.881	Unknown	0	4488	-----	-----	000	32657	000	-----	2	3		18.11.2021 00:04:44	213,1500>127,1000	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	-----	-----	-----	Unknown	0	-----	-----	-----	-----	-----	-----	-----	5	3		18.11.2021 00:25:56	213,1500>127,1000	1
+
+ID#	4
+Name	Ibuprofen
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	-----	-----	-----	Standard(Calc.Point)	1	-----	02		-----	-----	-----	-----	20	1		17.11.2021 23:22:16	204,9000>161,2000	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0171	157	545	Standard(Calc.Point)	2	3304	04	*	292	059	096	-----	21	1		17.11.2021 23:29:21	204,9000>161,2000	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	1058	132	697	Standard(Calc.Point)	3	3325	06	*	1933	055	638	-----	22	1		17.11.2021 23:36:25	204,9000>161,2000	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0571	172	613	Standard(Calc.Point)	4	3347	08	*	1017	056	335	-----	23	1		17.11.2021 23:43:29	204,9000>161,2000	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	-----	-----	-----	Standard(Calc.Point)	5	-----	1		-----	-----	-----	-----	24	1		17.11.2021 23:50:34	204,9000>161,2000	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	-0146	164	491	Unknown	0	3372	-----	-----	-187	078	-062	-----	2	3		18.11.2021 00:04:44	204,9000>161,2000	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	-1794	94	210	Unknown	0	3269	-----	-----	-4962	036	-1637	-----	5	3		18.11.2021 00:25:56	204,9000>161,2000	1
+
+ID#	5
+Name	Atenolol
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	0014	5.887	22.206	Standard(Calc.Point)	1	1308	02		001	1494	000	-----	20	1		17.11.2021 23:22:16	267,1708>145,0500	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0188	83.717	290.336	Standard(Calc.Point)	2	1306	04		001	20971	000	-----	21	1		17.11.2021 23:29:21	267,1708>145,0500	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	0341	154.399	525.358	Standard(Calc.Point)	3	1305	06		001	32480	000	-----	22	1		17.11.2021 23:36:25	267,1708>145,0500	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0248	107.574	381.878	Standard(Calc.Point)	4	1312	08		001	24357	000	-----	23	1		17.11.2021 23:43:29	267,1708>145,0500	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	1000	441.758	1.540.507	Standard(Calc.Point)	5	1313	1	*	002	52828	001	-----	24	1		17.11.2021 23:50:34	267,1708>145,0500	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	0131	58.226	201.832	Unknown	0	1311	-----	-----	001	15910	000	-----	2	3		18.11.2021 00:04:44	267,1708>145,0500	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	0131	57.440	202.128	Unknown	0	1306	-----	-----	001	16518	000	-----	5	3		18.11.2021 00:25:56	267,1708>145,0500	1
+
+ID#	6
+Name	Propranolol
+	Data Filename	Sample Name	Conc.	Intensity	Area	Sample Type	Level#	Ret. Time	Std. Conc.	Cal. Point	Quant. Limit(QL)	S/N	Detect. Limit(DL)	Calib.Point Mean Area	Vial#	Tray	Sample ID	Date Acquired	m/z	Dilution Factor
+1	02_Std1_PharMem_2021114_17.11.2021_002.lcd	02_Std1	0195	239.611	835.136	Standard(Calc.Point)	1	3661	02	*	000	51018	000	-----	20	1		17.11.2021 23:22:16	260,1651>116,0500	1
+2	04_Std2_PharMem_2021114_17.11.2021_003.lcd	04_Std2	0407	425.205	1.468.246	Standard(Calc.Point)	2	3658	04	*	001	61649	000	-----	21	1		17.11.2021 23:29:21	260,1651>116,0500	1
+3	06_Std3_PharMem_2021114_17.11.2021_004.lcd	06_Std3	0601	582.619	2.046.858	Standard(Calc.Point)	3	3660	06	*	001	73718	000	-----	22	1		17.11.2021 23:36:25	260,1651>116,0500	1
+4	08_Std1_PharMem_2021114_17.11.2021_005.lcd	08_Std1	0794	762.867	2.620.755	Standard(Calc.Point)	4	3651	08	*	001	66914	000	-----	23	1		17.11.2021 23:43:29	260,1651>116,0500	1
+5	10_Std1_PharMem_2021114_17.11.2021_006.lcd	10_Std1	1002	927.698	3.244.180	Standard(Calc.Point)	5	3665	1	*	001	79382	000	-----	24	1		17.11.2021 23:50:34	260,1651>116,0500	1
+6	P3_PharMem_2021114_17.11.2021_008.lcd	P3	0062	108.933	438.167	Unknown	0	3666	-----	-----	000	34138	000	-----	2	3		18.11.2021 00:04:44	260,1651>116,0500	1
+7	P7_PharMem_2021114_17.11.2021_011.lcd	P7	0040	93.618	370.131	Unknown	0	3667	-----	-----	000	31847	000	-----	5	3		18.11.2021 00:25:56	260,1651>116,0500	1
+
